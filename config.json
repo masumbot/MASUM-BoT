@@ -16,12 +16,13 @@
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "61591616526207",
-    
+    "61591616526207"
   ],
+
   "NDH": [
     "100044713412032"
   ],
+
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
